@@ -8,7 +8,7 @@
 	},
 	"id": "blairdash.gdtools",
 	"name": "GDTools",
-	"version": "v1.0.0-beta",
+	"version": "v1.0.1-beta",
 	"developer": "blairdash",
 	"description": "some tools",
 	"dependencies": {

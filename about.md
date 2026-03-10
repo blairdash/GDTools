@@ -1,3 +1,4 @@
-# Template Mod
+# GDTools
 
-Edit about.md to change this
+My first Geode mod.
+For now the only tools are links to AREDL and GDDL.
